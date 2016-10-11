@@ -5,6 +5,12 @@ body {
     background-color: #f0f2f3;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+
 .title{
     background-color: #fff;
     margin-bottom: 20px;
